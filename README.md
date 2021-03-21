@@ -1,3 +1,3 @@
 # Tutorial Git/GitHub
 
-É basitcamente isso
+É basitcamente isso!
